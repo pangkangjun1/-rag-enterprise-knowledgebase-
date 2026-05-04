@@ -30,3 +30,15 @@ cd rag-enterprise-knowledgebase
 
 # 安装依赖
 pip install -r requirements.txt
+
+### 2. 获取 API 密钥
+前往 阿里云 DashScope 控制台 获取 API Key（通义千问调用权限）。
+
+### 3. 运行项目
+bash  streamlit run AG3.py
+
+### 4. 使用流程
+输入 DashScope API Key
+上传知识库文件（TXT/PDF/DOCX）或粘贴文本
+输入问题，点击「开始回答」获取结果
+可查看检索片段 + 相似度评分（体现检索逻辑）
