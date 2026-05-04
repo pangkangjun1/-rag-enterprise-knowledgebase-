@@ -1,0 +1,15 @@
+# 敏感文件
+*.env
+*.key
+.DS_Store
+__pycache__/
+*.pyc
+# Streamlit缓存
+.streamlit/
+# 虚拟环境
+venv/
+env/
+# 上传的测试文件
+*.pdf
+*.docx
+*.txt
