@@ -47,4 +47,4 @@ bash  streamlit run AG3.py
 ## 📸 演示截图
 | 主界面 | 回答结果1 | 回答结果2
 | ---- | ---- | ---- |
-| ![主界面](assets/主页.png) | ![回答结果1](assets/回答1.png) |  ![回答结果2](assets/回答1.png)
+| ![主界面](assets/主页.png) | ![回答结果1](assets/回答1.png) |  ![回答结果2](assets/回答2.png)
